@@ -1,6 +1,6 @@
 # USBGuardian
 
-:warning: The project is currently under development, there may be some problems, feel free to contribute or contact me if you have any problem !
+:warning: Hi! The project is on hold from my side. Feel free to fork it and improve it if you wish. I am available for any questions (although it's been several years since I last looked at the code!)
 
 ## Major updates :mage:
 
@@ -28,8 +28,7 @@ Look at the user manual : [usbguardian-user-manual.pdf](https://usbguardian.file
 
 # Install - Raspberry :strawberry:
 
-For the moment, no installation script is available, this will surely be my next mission!  
-In the installation part, I'll talk about the Raspberry configuration and then the installation and configuration of USBGUardian.
+For the moment, no installation script is available; this will surely be my next mission! In the installation section, I'll discuss Raspberry Pi configuration followed by the installation and configuration of USBGuardian.
 
 *The Flash part of the SD card will not be explained here*.
 
